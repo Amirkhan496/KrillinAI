@@ -1,6 +1,5 @@
 package static
 
 import "embed"
-
-//go:embed index.html background.jpg
+.jpg
 var EmbeddedFiles embed.FS
